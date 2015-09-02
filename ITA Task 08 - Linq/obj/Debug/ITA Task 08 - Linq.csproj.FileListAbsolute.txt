@@ -1,0 +1,6 @@
+D:\My project\Pacmen\ITA Task 08 - Linq\ITA Task 08 - Linq\bin\Debug\ITA Task 08 - Linq.exe.config
+D:\My project\Pacmen\ITA Task 08 - Linq\ITA Task 08 - Linq\bin\Debug\ITA Task 08 - Linq.exe
+D:\My project\Pacmen\ITA Task 08 - Linq\ITA Task 08 - Linq\bin\Debug\ITA Task 08 - Linq.pdb
+D:\My project\Pacmen\ITA Task 08 - Linq\ITA Task 08 - Linq\obj\Debug\ITA Task 08 - Linq.exe
+D:\My project\Pacmen\ITA Task 08 - Linq\ITA Task 08 - Linq\obj\Debug\ITA Task 08 - Linq.pdb
+D:\My project\Pacmen\ITA Task 08 - Linq\ITA Task 08 - Linq\obj\Debug\ITA Task 08 - Linq.csprojResolveAssemblyReference.cache
